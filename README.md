@@ -23,7 +23,7 @@ Trabalho utilizando Agile e adoro um bom desafio. Se precisar de alguém para tr
 </p>
 <p align="left"> 
   
-### ⭐Experiências
+### 💡Experiências
 
 <img src="https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe" align="left" width="70px" min-width="70px" max-width="70px">\
 **Assistente de Automações** \
