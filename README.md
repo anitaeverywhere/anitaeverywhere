@@ -3,7 +3,8 @@
 
 
 <p align="left"> 
-Olá terráqueos! Eu sou a Anita, ou como todos me chamam, Nita. Desenvolvedora <strong>Fullstack</strong>.<br>
+Olá terráqueos! Eu sou a Anita, ou como todos me chamam, Nita.
+Desenvolvedora <strong>Fullstack</strong>.<br>
 estudante e entusiasta em tecnologia.
 Sou mestre em resolver problemas – tipo aquelas situações em que ninguém quer se meter! 
 Java é minha principal linguagem, mas me aventuro desde sempre em JavaScript, HTML e CSS.
