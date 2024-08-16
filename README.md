@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-<p align="middle"> 
+<p align="left"> 
 Olá terráqueos! Eu sou a Anita, ou como todos me chamam, Nita. Desenvolvedora <strong>Fullstack</strong>.<br>
 estudante e entusiasta em tecnologia.
 Sou mestre em resolver problemas – tipo aquelas situações em que ninguém quer se meter! 
