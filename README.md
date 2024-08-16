@@ -37,10 +37,10 @@ Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript` \
 
 **Geração Caldeira** \
 Trilha de programação realizada pelo instituto eldorado. \
-Tecnologias: HTML, CSS, JavaScript e Java (springboot API CRUD, REST) PostgreSQL, SQL. \
--Metodologia de aprendizagem ativa\
-        -Git e Github. \
-        -Trilha avançada de metodologias Agile. (SCRUM) e lógica de programação\
+Tecnologias: HTML, CSS, JavaScript e Java (springboot API CRUD, REST) PostgreSQL, SQL, Git e Github. \
+-Metodologia de aprendizagem ativa,  metodologias Agile. (SCRUM) e lógica de programação\\
+       
+  
 
 </p>
 
