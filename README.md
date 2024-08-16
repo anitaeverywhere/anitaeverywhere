@@ -21,13 +21,29 @@ Trabalho utilizando Agile e adoro um bom desafio. Se precisar de alguém para tr
 
 
 </p>
-
-### Experiência de trabalho
+<p align="left"> 
+  
+### ⭐Experiências
 
 <img src="https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe" align="left" width="70px" min-width="70px" max-width="70px">\
 **Assistente de Automações** \
 [**Appmax**](https://appmax.com.br//) • Full-time \
-Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript`\
+Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript` \
+</p>
+
+<p align="left"> 
+
+<img src="https://github.com/user-attachments/assets/bd322093-828f-49de-b213-e7275deeb289" align="left" width="70px" min-width="70px" max-width="70px">
+
+**Geração Caldeira** \
+Trilha de programação realizada pelo instituto eldorado. \
+Tecnologias: HTML, CSS, JavaScript e Java (springboot API CRUD, REST) PostgreSQL, SQL. \
+-Metodologia de aprendizagem ativa\
+-Git e Github. \
+-Trilha avançada de metodologias Agile. (SCRUM) e lógica de programação\
+
+</p>
+
 
 ## 🚀 Minhas Skills
 
