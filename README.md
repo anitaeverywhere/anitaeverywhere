@@ -11,4 +11,10 @@ Java é minha principal linguagem, mas me aventuro desde sempre em JavaScript, H
 Trabalho utilizando Agile e adoro um bom desafio. Se precisar de alguém para transformar caos em soluções, sou a pessoa certa!
 </p>
 
-<img src = "https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe" min-width="100px" max-width="100px" width="100px" align="left">
+### Experiência de trabalho
+**Assistente de automações** \
+[**Appmax**](https://appmax.com.br//) • Full-time \
+Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript`\
+[<img align="left" height="94px" width="94px" alt="logo appmax" src="https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe"/>]
+
+
