@@ -25,11 +25,12 @@ Trabalho utilizando Agile e adoro um bom desafio. Se precisar de alguém para tr
   
 ### 💡Experiências
 
-<img src="https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe" align="left" width="70px" min-width="70px" max-width="70px">\
+<img src="https://github.com/user-attachments/assets/7dc3c1f4-81cf-4751-9914-870b92763b1c" align="left" width="70px" min-width="70px" max-width="70px">\
 **Assistente de Automações** \
 [**Appmax**](https://appmax.com.br//) • Full-time \
 Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript` \
 </p>
+
 
 <p align="left"> 
 
