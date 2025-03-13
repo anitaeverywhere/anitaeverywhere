@@ -33,7 +33,7 @@ Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript` \
 
 <p align="left"> 
 
-<img src="https://github.com/user-attachments/assets/bd322093-828f-49de-b213-e7275deeb289" align="left" width="70px" min-width="70px" max-width="70px">
+<img src="https://github.com/user-attachments/assets/0a39f139-9e4a-410c-9626-cdfadc123795" align="left" width="70px" min-width="70px" max-width="70px">
 
 **Geração Caldeira** \
 Trilha de programação realizada pelo instituto eldorado. \
