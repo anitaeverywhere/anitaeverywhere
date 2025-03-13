@@ -25,16 +25,15 @@ Trabalho utilizando Agile e adoro um bom desafio. Se precisar de alguém para tr
   
 ### 💡Experiências
 
-<img src="https://github.com/user-attachments/assets/7dc3c1f4-81cf-4751-9914-870b92763b1c" align="left" width="70px" min-width="70px" max-width="70px">\
+<img src="https://github.com/user-attachments/assets/705b9c43-5299-4b06-95b3-7d555a1a4dfe" align="left" width="70px" min-width="70px" max-width="70px">\
 **Assistente de Automações** \
 [**Appmax**](https://appmax.com.br//) • Full-time \
 Linguagens & Tecnologias: `Python`, `Excel/GoogleSheets`, `CRM`, `JavaScript` \
 </p>
 
-
 <p align="left"> 
 
-<img src="https://github.com/user-attachments/assets/0a39f139-9e4a-410c-9626-cdfadc123795" align="left" width="70px" min-width="70px" max-width="70px">
+<img src="https://github.com/user-attachments/assets/dee97117-adbf-4c44-8703-9b8522a554c3" align="left" width="70px" min-width="70px" max-width="70px">
 
 **Geração Caldeira** \
 Trilha de programação realizada pelo instituto eldorado. \
@@ -63,5 +62,4 @@ Tecnologias: HTML, CSS, JavaScript e Java (springboot API CRUD, REST) PostgreSQL
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 </p>
-
 
